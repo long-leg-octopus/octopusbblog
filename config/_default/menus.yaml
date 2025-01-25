@@ -28,7 +28,7 @@ main:
     weight: 2
   - identifier: hardware
     name: 硬件设计
-    pageref: /hardware
+    pageref: /index.html
     pre: thumbs-up
     weight: 3
   - identifier: other
