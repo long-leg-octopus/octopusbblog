@@ -23,15 +23,15 @@ scheme: Gemini
 
 # 开启暗模式
 # Dark Mode
-darkmode: true
+darkmode: false
 
 
 # 站点基本信息
 # Site Information Settings
-author: NexT 主题
-subtitle: 为 Hugo 打造的主题
-description: 保持简单的易用性和强大的功能。
-keywords: Hugo,NexT,主题,简单,强大
+author: 章鱼腿很长
+subtitle: 记录分享硬件设计、生活感悟
+#description: 章鱼腿很长。
+keywords: Hugo,硬件设计,开源,简单,强大
 
 # 不同尺寸站点图标
 # Different size of favicon
